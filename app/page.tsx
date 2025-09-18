@@ -200,16 +200,7 @@ export default function Landing() {
                     </span>
                 </div>
                 <footer className='mt-12 text-xs text-white/40'>
-                    Built by{' '}
-                    <a
-                        href='https://x.com/0xLukkz'
-                        target='_blank'
-                        rel='noreferrer'
-                        className='underline'
-                    >
-                        0xLukkz
-                    </a>{' '}
-                    for the Monad community. Powered by Monad Games ID.
+                    Powered by Monad Games ID.
                 </footer>
             </section>
         </main>

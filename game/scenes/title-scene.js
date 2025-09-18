@@ -48,11 +48,6 @@ export class TitleScene extends Phaser.Scene {
                 fontSize: '32px',
             })
             .setOrigin(0.5);
-        this.add
-            .text(this.scale.width / 2, 130, 'Made by: 0xLukkz', {
-                fontSize: '11px',
-            })
-            .setOrigin(0.5);
 
         this.add
             .text(this.scale.width / 2, 350, 'Click to play!', {
