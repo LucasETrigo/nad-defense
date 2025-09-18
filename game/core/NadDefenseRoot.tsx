@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useRef } from 'react';
-import Phaser from 'phaser';
+import * as Phaser from 'phaser';
 import { SCENE_KEYS } from '@/game/common/scene-keys';
 import { PreloadScene } from '@/game/scenes/preload-scene';
 import { TitleScene } from '@/game/scenes/title-scene';
